@@ -1,7 +1,6 @@
 package versuch2;
-/*
-Name: Patrick Heﬂe
-Gruppennummer: 41
+/**
+
 Aufgabe: 2.1Z
 */
 import java.io.*;

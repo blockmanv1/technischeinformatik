@@ -1,14 +1,8 @@
 /**
- Autor: Patrick Heﬂe - Viktoria Lagemann
-Gruppennummer: 41
+
 Aufgabe:2.2 Zusatz
  */
 package versuch2;
-
-/**
- * @author Patrick
- *
- */
 
 import java.io.*;
 public class MethodenAufrufZusatz {
